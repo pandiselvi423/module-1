@@ -11,4 +11,11 @@ Go to c:\users\ACER ,open secret_file - properties, check write box permission.
 
 ![permission](https://user-images.githubusercontent.com/71600146/119298925-a0d14280-bc7b-11eb-9293-4d0b4a1f6301.png)
 
+End task
+
+Go to task manager. Find a specific task, right click and choose end task.
+
+![end task](https://user-images.githubusercontent.com/71600146/119299545-babf5500-bc7c-11eb-9ffa-535859a93f42.png)
+
+
 
