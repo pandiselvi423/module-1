@@ -21,5 +21,7 @@ taskkill /pid [ your pid ]
 
 To terminate multiple task, type the following command in windows power shell.
 
+taskkill /pid [ your pid ] /pid [ your pid ]
+
 ![multipletask kill png](https://user-images.githubusercontent.com/71600146/119293878-f05e4100-bc70-11eb-859f-98df939ca4c6.png)
 
