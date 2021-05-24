@@ -12,3 +12,9 @@ first find the pid of a task you want to kill . go to task manager and click det
 PID ( process ID )
 
 ![pid png](https://user-images.githubusercontent.com/71600146/119293400-fa337480-bc6f-11eb-8e11-2809f3e47db4.png)
+
+Then open windows power shell and type the following command.
+
+taskkill /pid [ your pid ]
+
+
