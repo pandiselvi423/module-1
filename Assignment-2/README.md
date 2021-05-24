@@ -17,5 +17,12 @@ Go to task manager. Find a specific task, right click and choose end task.
 
 ![end task](https://user-images.githubusercontent.com/71600146/119299545-babf5500-bc7c-11eb-9ffa-535859a93f42.png)
 
+Finding and deleting file.
+
+Delete big file . Use search feature.
+
+![Delete file](https://user-images.githubusercontent.com/71600146/119299942-84cea080-bc7d-11eb-9675-c0d8674280e7.png)
+
+
 
 
